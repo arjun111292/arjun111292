@@ -16,6 +16,9 @@
  ⥏  𝙐𝙣𝙙𝙚𝙧𝙨𝙩𝙖𝙣𝙙 𝗘𝗻𝗴𝗹𝗶𝘀𝗵, 𝗛𝗶𝗻𝗱𝗶(𝗟𝗶𝘁𝘁𝗹𝗲 𝗯𝗶𝘁),𝗧𝗮𝗺𝗶𝗹, 𝗠𝗮𝗹𝗮𝘆𝗮𝗹𝗮𝗺 & 𝗛𝗮𝘂𝘀𝗮
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&color=%238038D5&size=35&duration=4000&center=true&vCenter=true&width=250&height=40&lines=Arjun Pradeep)](https://git.io/typing-svg) &nbsp;&nbsp;
+
+
 [<img alt="alt_text" width="300" align="right" src="img/arnd.png" />](https://www.instagram.com/a.r.j.u.n.p.r.a.d.e.e.p)
 [<img alt="alt_text" width="400" src="img/respz.png" />](https://github.com/arjun111292?tab=repositories)
 
